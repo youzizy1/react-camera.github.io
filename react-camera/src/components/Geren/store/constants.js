@@ -1,0 +1,2 @@
+export const CHANGE_TP_STAR = 'CHANGE_TP_STAR'
+export const CHANGE_SP_STAR = 'CHANGE_SP_STAR'

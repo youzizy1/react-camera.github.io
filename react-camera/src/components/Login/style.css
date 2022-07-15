@@ -1,0 +1,5 @@
+.adm-button:not(.adm-button-default){
+        color: #fff !important;
+    --background-color: #fe7ab4 !important; 
+    --border-color: #fe7ab4 !important;
+}

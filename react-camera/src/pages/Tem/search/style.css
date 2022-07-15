@@ -1,0 +1,17 @@
+.adm-button:not(.adm-button-default){
+    background-color: #fff !important;
+    color: #000 !important;
+    border-color:#fff;
+    }
+    .adm-space-vertical{
+        flex-direction: row;
+        display: flex;
+        
+    }
+    .adm-space-item{
+        flex: 1;    
+    }
+    .adm-modal-footer .adm-modal-button:not(.adm-modal-button-primary){
+        padding-top: 0.5rem;
+        border-color: #000;
+    }
